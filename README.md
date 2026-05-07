@@ -4,7 +4,7 @@ A comprehensive Streamlit dashboard for customer segmentation using RFM (Recency
 
 ## 🚀 Live Demo
 
-**[Open the Live Dashboard →](https://customersegmentationds.streamlit.app/)**
+**[Open the Live Dashboard →](https://customer-segmentation-nishaa.streamlit.app/)**
 
 Click the link above to access the interactive dashboard hosted on Streamlit Cloud!
 
@@ -20,8 +20,8 @@ Click the link above to access the interactive dashboard hosted on Streamlit Clo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/priyasharma2106/Customer_segmentation_DS.git
-cd rfm-customer-segmentation
+git clone https://github.com/Nishaa1304/Customer-Segmentation-Project.git
+cd Customer-Segmentation-Project
 ```
 
 2. Create a virtual environment:
@@ -53,7 +53,7 @@ The dashboard will open at `http://localhost:8501`
 1. Go to [Streamlit Cloud](https://share.streamlit.io)
 2. Click **"New app"**
 3. Connect your GitHub account (if not already connected)
-4. Select your repository: `priyasharma2106/Customer_segmentation_DS`
+4. Select your repository: `Nishaa1304/Customer-Segmentation-Project`
 5. Select branch: `main`
 6. Select the app file path: `rfm-customer-segmentation/app/streamlit_app.py`
 7. Click **"Deploy"**
@@ -68,10 +68,10 @@ If you use API keys or sensitive data, add them in Streamlit Cloud settings:
 
 Once deployed, your app will be live at:
 ```
-https://share.streamlit.io/priyasharma2106/Customer_segmentation_DS/main/rfm-customer-segmentation/app/streamlit_app.py
+https://customer-segmentation-nishaa.streamlit.app/
 ```
 
-**Status**: 🟢 Ready to deploy!
+**Status**: 🟢 Deployed!
 
 ## Project Structure
 
@@ -117,7 +117,7 @@ Customers are segmented into 4 groups based on RFM analysis:
 
 ## Author
 
-Priya Sharma
+Nishaa
 
 ## License
 
@@ -148,8 +148,8 @@ campaign — reducing churn and increasing repeat purchases.
 Python · Pandas · Scikit-learn · Plotly · Streamlit
 
 ## Run locally
-git clone https://github.com/yourusername/rfm-customer-segmentation
-cd rfm-customer-segmentation
+git clone https://github.com/Nishaa1304/Customer-Segmentation-Project.git
+cd Customer-Segmentation-Project
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
@@ -161,7 +161,7 @@ A sample of 1,000 rows is included in `/data/sample_data.csv`.
 
 The app is deployed on **Streamlit Cloud** at:
 ```
-https://customersegmentationds.streamlit.app/
+https://customer-segmentation-nishaa.streamlit.app/
 ```
 
 ### Deploy Your Own
